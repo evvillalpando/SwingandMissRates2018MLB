@@ -1,2 +1,2 @@
-# mlbgamedayImport
-3 functions I used to pull data from the mlbgameday package, which allows scraping from MLB's advanced media database.
+This is a collection of scripts I wrote for the following purposes.
+##**[PitchDataImport.R](https://github.com/evvillalpando/SwingandMissRates2018MLB/blob/master/PitchDataImport.R)**
