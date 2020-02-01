@@ -7,5 +7,5 @@ This is a collection of scripts I wrote for the following purposes. My initial r
 [DataVisBaseball2018.R](https://github.com/evvillalpando/SwingandMissRates2018MLB/blob/master/DataVisBaseball2018.R) is a script used to experiment with the ggplot and ggimage packages, and ultimately visualize the swing and miss rates by team for the 2018 season
 
 ## Graph.jpg
-Visualization(https://raw.githubusercontent.com/evvillalpando/SwingandMissRates2018MLB/master/Rplot07.jpeg) of the data for swing and miss rates in 2018, at home, on fastballs only. The DataVis script linked above can be manipulated to show the data for offspeed pitches as well, but it more or less paints the same picture.
+[Visualization](https://raw.githubusercontent.com/evvillalpando/SwingandMissRates2018MLB/master/Rplot07.jpeg) of the data for swing and miss rates in 2018, at home, on fastballs only. The DataVis script linked above can be manipulated to show the data for offspeed pitches as well, but it more or less paints the same picture.
 
