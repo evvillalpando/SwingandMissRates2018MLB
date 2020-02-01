@@ -1,5 +1,5 @@
 My initial reason for starting this project was to see if the Astros and Red Sox cheating scandal manifested itself in regular season games, but the data presented here is inconclusive (there are far better metrics for showing the effects of their cheating; this was mostly exploratory and a means to practice importing, cleaning, and visualizing real world data). In any case, the MLB's investigation has concluded. Each file included in this repository is listed below.
-**NOTE** The only file missing here is the .csv I created, but it's about 450 MB large. Turns out, there are __a lot__ of pitches thrown in the regular season!
+**NOTE** The only file missing here is the .csv I created, but it's about 450 MB large. Turns out, there are __a lot__ of pitches thrown in the regular season! Feel free to email me @ evasquez1192@gmail.com if you'd like a subset of the CSV.
 
 ## PitchDataImport.R
 [PitchDataImport.R](https://github.com/evvillalpando/SwingandMissRates2018MLB/blob/master/PitchDataImport.R) is a script containing all the functions I created to import the data—that's it.
