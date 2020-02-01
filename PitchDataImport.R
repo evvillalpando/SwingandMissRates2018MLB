@@ -34,9 +34,3 @@ listofTeams <- teamer(teamstr, yearstart = "2018-01-30", yearend = "2018-12-30",
 reduction <- listofTeams %>%
   bind_rows(.id = "Team")
 
-# Calculates the swing strike percentage, by pitch time, by team.
-SwingStrikePerc <- reduction %>%
-  select(Team, des, pitch_type)
-  group_by(Team,pitch_type)%>%
-  summarize(SwingStrike = sum(des=="Swinging Strike")/n() *100)%>%
-  arrange(SwingStrike)
